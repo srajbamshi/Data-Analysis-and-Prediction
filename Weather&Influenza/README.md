@@ -1,0 +1,1 @@
+This is a sample data nalysis project. It predicts disease on certain season based on weather and previous years disease data. After completing this project, one learns how to use pandas for data handling, merging datasets and so on. One also learns how to train simple machine learning models like Linear Regression, KNN.
